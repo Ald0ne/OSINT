@@ -43,6 +43,10 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
   
 |Titolo|Link|A cosa serve|Note|
 |-----|-----|-----|-----|
+|Google|[https://www.google.com/](https://www.google.com/)|Motore di ricerca| |
+|Duckduckgo|[https://duckduckgo.com/](https://duckduckgo.com/)|Motore di ricerca| |
+|Bing|[https://www.bing.com/](https://www.bing.com/)|Motore di ricerca| |
+|Yandex|[https://yandex.com/](https://yandex.com/)|Motore di ricerca| |
 |Intelligence X|[https://intelx.io/](https://intelx.io/)|Motore di ricerca|Molte informazioni anche nella versione free|
 |ImmuniWeb|[https://www.immuniweb.com/radar/](https://www.immuniweb.com/radar/)|DTI & Scan|Community version free|
 |Google Hacking|[https://pentest-tools.com/information-gathering/google-hacking#](https://pentest-tools.com/information-gathering/google-hacking#)|Dorks|Analisi Dorks pre-impostate|

@@ -13,7 +13,7 @@
  - [Raccolta informazioni](#raccolta-informazioni)
  - Emails
  - Domain Intelligence
- - Le fasi di un attacco
+ - Maps
  - [Risorse](#risorse)
 
 
@@ -34,11 +34,7 @@
 |Terrapattern|http://www.terrapattern.com/|Mappe Satellitari|Beta project|
 |Shodan|https://www.shodan.io/|Motore di rierca IOT|Il "Google" degli oggetti internet|
 
-## Emails
-
-In caso di un sito aziendale o un blog personale si può fare inteligence sul dominio.
-E' anche possibile utilizzare tecniche di pentesting e per trovare vulnerabilità e informazioni.
-Queste attività a meno di esplicita autorizzazione dell'utente sono da considerarsi illegali.
+## [Emails]
 
 **Browser based**
 
@@ -59,34 +55,38 @@ Queste attività a meno di esplicita autorizzazione dell'utente sono da consider
 |Strumento|Target|Obiettivo|
 |---------|------|---------|
 |Harvester|IP Pubblico e Dominio|Raccolta informazioni|
-|NMAP|IP Pubblico|Raccolta informazioni|
-|Sublist3r|Dominio|Raccolta sottodomini|
 
 
 ## Domain Intelligence
 In caso di un sito aziendale o un blog personale si può fare inteligence sul dominio.
-
 E' anche possibile utilizzare tecniche di pentesting e per trovare vulnerabilità e informazioni.
 Queste attività a meno di esplicita autorizzazione dell'utente sono da considerarsi illegali.
 
 **Browser based**
 
-|Strumento|Target|Obiettivo|
-|---------|------|---------|
-|Shodan|IP Pubblico|Analisi rete dall'esterno|
-|SpiderFoot|IP Pubblico e Dominio|Raccolta informazioni|
-|Google Dorks|Dominio|Informazioni esposte|
-|Intelligence X|Dominio|Compromissione email|
-|Emotet search|Dominio|Compromissione email|
+|Titolo|Link|A cosa serve|Note|
+|-----|-----|-----|-----|
+|Google|[https://www.google.com/](https://www.google.com/)|Motore di ricerca| |
+|Duckduckgo|[https://duckduckgo.com/](https://duckduckgo.com/)|Motore di ricerca| |
+|Shodan|https://www.shodan.io/|Motore di rierca IOT|Il "Google" degli oggetti internet|
 
 **Linux**
 
 |Strumento|Target|Obiettivo|
 |---------|------|---------|
-|Shodan|IP Pubblico|Analisi rete dall'esterno|
 |SpiderFoot|IP Pubblico e Dominio|Raccolta informazioni|
 |NMAP|IP Pubblico|Raccolta informazioni|
 |Sublist3r|Dominio|Raccolta sottodomini|
+
+
+## Maps
+
+**Browser based**
+
+|Titolo|Link|A cosa serve|Note|
+|-----|-----|-----|-----|
+|Google Maps|[https://www.google.com/maps](https://www.google.com/maps)|Motore di ricerca| |
+|Terrapattern|http://www.terrapattern.com/|Mappe Satellitari|Beta project|
 
 
 ## [Risorse](#risorse)
